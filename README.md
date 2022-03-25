@@ -7,6 +7,7 @@
 ### :books: I’m currently learning 
 + inflearn : [스프링 핵심 원리 - 기본편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8/dashboard)
 + book : 객체지향의 사실과 오해
++ study : 블로그 포스팅 스터디(7기)
 ### 🌱 My skills ...
 - Back-End & Front-End <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
