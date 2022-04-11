@@ -8,6 +8,7 @@
 + inflearn : [모든 개발자를 위한 HTTP 웹 기본 지식](https://www.inflearn.com/course/http-%EC%9B%B9-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/dashboard)
 + book : 객체지향의 사실과 오해
 + study : [블로그 포스팅 스터디(7기)](https://github.com/Meet-Coder-Study/posting-review), [우아한 유스방(3기)](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%EC%9C%A0%EC%8A%A4%EB%B0%A9%203%EA%B8%B0)
++ algorithm : 프로그래머스 1일 1문제, [Leetcode](https://github.com/MINS99/leetcode)
 ### 🌱 My skills ...
 - Back-End & Front-End <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
