@@ -7,7 +7,7 @@
 ### :books: I’m currently learning 
 + inflearn : [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-mvc-1/dashboard)
 + book : 객체지향의 사실과 오해, 테스트 주도 개발 시작하기
-+ study : [블로그 포스팅 스터디(7기)](https://github.com/Meet-Coder-Study/posting-review), [우아한 유스방(3기)](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%EC%9C%A0%EC%8A%A4%EB%B0%A9%203%EA%B8%B0)
++ study : [우아한 유스방 3기](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%EC%9C%A0%EC%8A%A4%EB%B0%A9%203%EA%B8%B0), [우아한테크캠프 Pro 4기](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84%20Pro%204%EA%B8%B0)
 + algorithm : 프로그래머스 1일 1문제, [Leetcode](https://github.com/MINS99/leetcode)
 ### 🌱 My skills ...
 - Back-End & Front-End <br>
