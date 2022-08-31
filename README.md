@@ -2,12 +2,14 @@
 
 [![mins99's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINS99&count_private=true&show_icons=true)](https://github.com/MINS99/github-readme-stats)
 
-### 🔭 I’m currently working on 
-+ **Java(spring) groupware system back-end programmer(2018.03 ~ 2022.03)**
+### 🔭 Work & Course
+- [우아한테크캠프 Pro 4기 (2022.04 ~ 2022.07)](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84%20Pro%204%EA%B8%B0)
+- [우아한 유스방 3기 (2022.03 ~ 2022.07)](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%EC%9C%A0%EC%8A%A4%EB%B0%A9%203%EA%B8%B0)
++ Java&spring Groupware system back-end programmer (2018.03 ~ 2022.03)
+
 ### :books: I’m currently learning 
-+ book : 이펙티브 자바
-+ study : [우아한 유스방 3기](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%EC%9C%A0%EC%8A%A4%EB%B0%A9%203%EA%B8%B0), [우아한테크캠프 Pro 4기](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84%20Pro%204%EA%B8%B0)
-+ algorithm : 프로그래머스 1일 1문제, [Leetcode](https://github.com/MINS99/leetcode)
++ study : [토비의 스프링 읽기모임](https://luv-mins99.gitbook.io/rabbit-in-the-moon/skill-up/tobys-spring), [오브젝트](https://github.com/MINS99/study-objects)
++ algorithm : [Leetcode](https://github.com/MINS99/leetcode)
 ### 🌱 My skills ...
 - Back-End & Front-End <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) 
