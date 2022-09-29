@@ -6,14 +6,14 @@
 - [우아한테크캠프 Pro 4기 (2022.04 ~ 2022.07)](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BA%A0%ED%94%84%20Pro%204%EA%B8%B0)
 - [우아한 유스방 3기 (2022.03 ~ 2022.07)](https://bluemoon-clover.tistory.com/category/Skill%20Up/%EC%9A%B0%EC%95%84%ED%95%9C%EC%9C%A0%EC%8A%A4%EB%B0%A9%203%EA%B8%B0)
 + Java&spring Groupware system back-end programmer (2018.03 ~ 2022.03)
++ Order & Payment Service back-end programmer (2022.09 ~ )
 
 ### :books: I’m currently learning 
 + study : [토비의 스프링 읽기모임](https://luv-mins99.gitbook.io/rabbit-in-the-moon/skill-up/tobys-spring), [오브젝트](https://github.com/MINS99/study-objects)
-+ algorithm : [Leetcode](https://github.com/MINS99/leetcode)
+
 ### 🌱 My skills ...
-- Back-End & Front-End <br>
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+- Back-End <br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
 - Database <br>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
